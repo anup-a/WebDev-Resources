@@ -17,7 +17,7 @@
 	 - [Dev Conferences](#conferences)
 
 ## Full Stack Development
->Youtube Channels
+>Youtube Playlists & Videos
 * [ Full Stack React & Firebase Tutorial - Build a social media app](https://www.youtube.com/watch?v=m_u6P5k0vP0)
 * [freeCodeCamp.org - Learn the MERN Stack](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 * [Traversy Media - Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
@@ -115,7 +115,7 @@
 	- [Animator By Haiku](https://www.haikuforteams.com/animator/)
 
 - Collaboration Tools
-	-  [Asana](https://asana.com/)
+	- [Asana](https://asana.com/)
 	- [Basecamp](https://basecamp.com/)
 	- [JIRA](https://www.atlassian.com/software/jira)
 	- [Slack](https://slack.com/)
